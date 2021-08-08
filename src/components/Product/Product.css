@@ -1,0 +1,22 @@
+.single-product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 20px 0px;
+    
+}
+
+.product-image{
+    margin-right: 30px;
+}
+
+.product-name{
+    color: rgba(89, 89, 255, 0.897);
+}
+
+.cart-btn{
+    background: #ffd900e8;
+    padding: 5px 40px;
+    color: #000;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
